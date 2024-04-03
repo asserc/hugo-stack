@@ -1,8 +1,8 @@
 # Change baseurl before deploy
-baseurl = "https://asserc.github.io/hugo-stack/"
+baseurl = "https://hugo-stack.netlify.app/"
 languageCode = "es-es"
 paginate = 5
-title = "Título config.toml aquí está"
+title = "Título config.toml aquí estás"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar

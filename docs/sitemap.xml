@@ -2,67 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://demo.stack.jimmycai.com/p/hello-world/</loc>
+    <loc>https://hugo-stack.netlify.app/p/hello-world/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/</loc>
+    <loc>https://hugo-stack.netlify.app/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/categories/</loc>
+    <loc>https://hugo-stack.netlify.app/categories/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/tags/css/</loc>
+    <loc>https://hugo-stack.netlify.app/tags/css/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/tags/html/</loc>
+    <loc>https://hugo-stack.netlify.app/tags/html/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/tags/markdown/</loc>
+    <loc>https://hugo-stack.netlify.app/tags/markdown/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/p/markdown-syntax-guide/</loc>
+    <loc>https://hugo-stack.netlify.app/p/markdown-syntax-guide/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/post/</loc>
+    <loc>https://hugo-stack.netlify.app/post/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/categories/syntax/</loc>
+    <loc>https://hugo-stack.netlify.app/categories/syntax/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/tags/</loc>
+    <loc>https://hugo-stack.netlify.app/tags/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/tags/themes/</loc>
+    <loc>https://hugo-stack.netlify.app/tags/themes/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/categories/themes/</loc>
+    <loc>https://hugo-stack.netlify.app/categories/themes/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/p/image-gallery/</loc>
+    <loc>https://hugo-stack.netlify.app/p/image-gallery/</loc>
     <lastmod>2023-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/p/shortcodes/</loc>
+    <loc>https://hugo-stack.netlify.app/p/shortcodes/</loc>
     <lastmod>2023-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/p/math-typesetting/</loc>
+    <loc>https://hugo-stack.netlify.app/p/math-typesetting/</loc>
     <lastmod>2023-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/archives/</loc>
+    <loc>https://hugo-stack.netlify.app/archives/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/categories/nutrici%C3%B3n/</loc>
+    <loc>https://hugo-stack.netlify.app/categories/nutrici%C3%B3n/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/page/</loc>
+    <loc>https://hugo-stack.netlify.app/page/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/tags/tonter%C3%ADas/</loc>
+    <loc>https://hugo-stack.netlify.app/tags/tonter%C3%ADas/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/search/</loc>
+    <loc>https://hugo-stack.netlify.app/search/</loc>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/categories/example-category/</loc>
+    <loc>https://hugo-stack.netlify.app/categories/example-category/</loc>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/enlaces/</loc>
+    <loc>https://hugo-stack.netlify.app/enlaces/</loc>
   </url>
 </urlset>

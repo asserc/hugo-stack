@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tonterías on Título config.toml aquí está</title>
-        <link>http://localhost:1313/hugo-stack/tags/tonter%C3%ADas/</link>
+        <link>http://localhost:1313/tags/tonter%C3%ADas/</link>
         <description>Recent content in Tonterías on Título config.toml aquí está</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>es-es</language>
-        <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/hugo-stack/tags/tonter%C3%ADas/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/tonter%C3%ADas/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Hola mundo</title>
-        <link>http://localhost:1313/hugo-stack/p/hello-world/</link>
+        <link>http://localhost:1313/p/hello-world/</link>
         <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/hugo-stack/p/hello-world/</guid>
-        <description>&lt;img src="http://localhost:1313/hugo-stack/p/hello-world/cover.jpg" alt="Featured image of post Hola mundo" /&gt;&lt;p&gt;¿Qué paza?&lt;/p&gt;
+        <guid>http://localhost:1313/p/hello-world/</guid>
+        <description>&lt;img src="http://localhost:1313/p/hello-world/cover.jpg" alt="Featured image of post Hola mundo" /&gt;&lt;p&gt;¿Qué paza?&lt;/p&gt;
 &lt;p&gt;Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!&lt;/p&gt;
 &lt;p&gt;For more information about this theme, check the documentation: &lt;a class=&#34;link&#34; href=&#34;https://stack.jimmycai.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://stack.jimmycai.com/&lt;/a&gt;&lt;/p&gt;
