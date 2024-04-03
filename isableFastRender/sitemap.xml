@@ -2,67 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/p/hello-world/</loc>
+    <loc>http://localhost:1313/hugo-stack/p/hello-world/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/hugo-stack/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/hugo-stack/categories/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/css/</loc>
+    <loc>http://localhost:1313/hugo-stack/tags/css/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/html/</loc>
+    <loc>http://localhost:1313/hugo-stack/tags/html/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
+    <loc>http://localhost:1313/hugo-stack/tags/markdown/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/markdown-syntax-guide/</loc>
+    <loc>http://localhost:1313/hugo-stack/p/markdown-syntax-guide/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>http://localhost:1313/hugo-stack/post/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/syntax/</loc>
+    <loc>http://localhost:1313/hugo-stack/categories/syntax/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/hugo-stack/tags/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/themes/</loc>
+    <loc>http://localhost:1313/hugo-stack/tags/themes/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/themes/</loc>
+    <loc>http://localhost:1313/hugo-stack/categories/themes/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/image-gallery/</loc>
+    <loc>http://localhost:1313/hugo-stack/p/image-gallery/</loc>
     <lastmod>2023-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/shortcodes/</loc>
+    <loc>http://localhost:1313/hugo-stack/p/shortcodes/</loc>
     <lastmod>2023-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/math-typesetting/</loc>
+    <loc>http://localhost:1313/hugo-stack/p/math-typesetting/</loc>
     <lastmod>2023-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>http://localhost:1313/hugo-stack/archives/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/nutrici%C3%B3n/</loc>
+    <loc>http://localhost:1313/hugo-stack/categories/nutrici%C3%B3n/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/</loc>
+    <loc>http://localhost:1313/hugo-stack/page/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tonter%C3%ADas/</loc>
+    <loc>http://localhost:1313/hugo-stack/tags/tonter%C3%ADas/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://localhost:1313/hugo-stack/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/example-category/</loc>
+    <loc>http://localhost:1313/hugo-stack/categories/example-category/</loc>
   </url><url>
-    <loc>http://localhost:1313/enlaces/</loc>
+    <loc>http://localhost:1313/hugo-stack/enlaces/</loc>
   </url>
 </urlset>
